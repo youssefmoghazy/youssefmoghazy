@@ -37,7 +37,8 @@ I'm a computer and systems student who is passionate about Embedded Software.
 
 ### 📊 Profile stats
 
-[![Youssef Moghazy GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+[![Youssef Moghazy GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefmoghazy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
