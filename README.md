@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h2> Hey there! I'm Mahmoud.</h2>
+<h2> Hey there! I'm Youssef.</h2>
 
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
@@ -37,8 +37,7 @@ I'm a computer and systems student who is passionate about Embedded Software.
 
 ### 📊 Profile stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefmoghazy)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Youssef Moghazy GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
