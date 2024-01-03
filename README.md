@@ -12,7 +12,7 @@ I'm a computer and systems student who is passionate about Embedded Software.
 
 - 🎓 &nbsp; I’m currently a student at Al Zagazig Unversity.
 - 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware and AUTOSAR. 
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/youssef-moghazy) [Gmail](youssefMoghazy55@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/youssef-moghazy) [Gmail](https://www.youssefMoghazy55@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
