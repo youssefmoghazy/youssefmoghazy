@@ -36,7 +36,6 @@ I'm a backend developer with a strong focus on **.NET technologies** and a growi
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" height="20" />
 - **APIs**: 
   <img src="https://img.shields.io/badge/REST-FF6F61?style=flat-square&logo=rest&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" height="20" />
 
 #### DevOps
 - **CI/CD**: 
