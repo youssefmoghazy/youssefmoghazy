@@ -40,7 +40,7 @@ I'm a computer and systems student who is passionate about Software Engineering.
 
 [![Youssef Moghazy GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefmoghazy)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
