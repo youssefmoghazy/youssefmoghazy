@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" alt="Welcome Banner"/>
-</p>
-
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm Youssef Moghazy</h1>
 
 <h3 align="center">A Passionate Backend Developer & DevOps Enthusiast</h3>
 
@@ -16,13 +12,11 @@
 
 I'm a backend developer with a strong focus on **.NET technologies** and a growing interest in **DevOps practices**. I love building scalable, efficient, and secure backend systems while exploring tools and methodologies to streamline development and deployment processes.
 
-- 🎓 **Education**: [Your Degree, e.g., Computer Science] at [Your University, e.g., Al Zagazig University].
-- 🌱 **Currently Learning**: Advanced .NET Core, Microservices Architecture, and Kubernetes.
-- 💼 **Experience**: [Briefly mention your experience, e.g., "2 years of experience in backend development using .NET"].
+- 🎓 **Education**: Computer and systems Engineering at Zagazig University.
+- 🌱 **Currently Learning**: .NET Core, Microservices Architecture, and Kubernetes.
 - 📫 **How to reach me**: 
-  - [LinkedIn](https://www.linkedin.com/in/your-profile) 
-  - [Email](mailto:your.email@example.com)
-  - [Portfolio](https://your-portfolio-link.com) (if applicable)
+  - [LinkedIn](www.linkedin.com/in/youssef-moghazy) 
+  - [Email](youssefmoghazy55@gmil.com)
 
 ---
 
@@ -30,27 +24,27 @@ I'm a backend developer with a strong focus on **.NET technologies** and a growi
 
 #### Backend Development
 - **Languages**: 
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - **Frameworks**: 
-  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 - **Databases**: 
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 - **APIs**: 
   ![REST](https://img.shields.io/badge/REST-FF6F61?style=for-the-badge&logo=rest&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 #### DevOps
 - **CI/CD**: 
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white)
-  ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure%20devops&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 - **Containerization**: 
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 - **Cloud Platforms**: 
-  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 
 #### Tools
@@ -74,22 +68,10 @@ I'm a backend developer with a strong focus on **.NET technologies** and a growi
 
 ### 🚀 Projects
 
-Here are some of the projects I've worked on:
+Here are some of the project I've worked on:
 
-1. **[Project Name 1](https://github.com/your-username/project-1)**  
-   - A backend API built with ASP.NET Core and SQL Server.
-   - Features: [Briefly describe key features].
-
-2. **[Project Name 2](https://github.com/your-username/project-2)**  
+**[final-project-DevOps-DEPI](https://github.com/youssefmoghazy/final-project-DevOps-DEPI)**  
    - A CI/CD pipeline using GitHub Actions and Docker.
-   - Features: [Briefly describe key features].
-
----
-
-### 📝 Blog (Optional)
-
-I occasionally write about my learning journey and experiences in backend development and DevOps. Check out my blog:  
-[Blog Link](https://your-blog-link.com)
 
 ---
 
@@ -98,7 +80,6 @@ I occasionally write about my learning journey and experiences in backend develo
 I'm always open to collaborating on interesting projects or discussing backend development and DevOps. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
