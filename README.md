@@ -59,7 +59,6 @@ I'm a backend developer with a strong focus on **.NET technologies** and a growi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefmoghazy&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmoghazy&layout=compact" alt="GitHub Stats" />
 </p>
 
