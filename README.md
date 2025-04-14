@@ -60,7 +60,6 @@ I'm a backend developer with a strong focus on **.NET technologies** and a growi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=youssefmoghazy&show_icons=true&theme=radical" alt="GitHub Stats" />
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 </p>
 
 ---
