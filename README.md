@@ -7,16 +7,26 @@
 </p>
 
 ---
+## 👨‍💻 Professional Summary
 
-### 👨‍💻 About Me
+DevOps Engineer with a strong backend foundation in **ASP.NET Core** and hands-on experience in **cloud infrastructure, CI/CD automation, and containerized environments**. Focused on building reliable deployment pipelines, scalable cloud architectures, and maintaining system stability through automation and best practices.
 
-I'm a backend developer with a strong focus on **.NET technologies** and a growing interest in **DevOps practices**. I love building scalable, efficient, and secure backend systems while exploring tools and methodologies to streamline development and deployment processes.
+Highly motivated to grow as a **DevOps / Cloud Engineer**, with practical exposure to **AWS services**, **Linux systems**, and modern **DevOps toolchains**.
 
-- 🎓 **Education**: Computer and systems Engineering at Zagazig University.
-- 🌱 **Currently Learning**: .NET Core, Microservices Architecture, and Kubernetes.
-- 📫 **How to reach me**: 
-  - [LinkedIn](www.linkedin.com/in/youssef-moghazy) 
-  - [Email](youssefmoghazy55@gmil.com)
+---
+
+🎓 **Education**  
+Computer & Systems Engineering – Zagazig University
+
+🎯 **Career Objective**  
+DevOps Engineer / Cloud Engineer
+
+🌱 **Currently Upskilling In**  
+Kubernetes · Infrastructure as Code (IaC) · Advanced AWS
+
+📫 **Contact**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-moghazy)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youssefmoghazy55@gmail.com)
 
 ---
 ## 🛠️ Skills & Tools
