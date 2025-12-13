@@ -15,7 +15,7 @@ Highly motivated to grow as a **DevOps / Cloud Engineer**, with practical exposu
 
 ---
 
-🎓 **Education**  
+## 🎓 Education  
 Computer & Systems Engineering – Zagazig University
 
 🎯 **Career Objective**  
