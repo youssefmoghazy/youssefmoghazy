@@ -1,6 +1,6 @@
 <h1 align="center">Youssef Moghazy</h1>
 
-<p align="center">DevOps Engineer · Cloud Infrastructure · CI/CD Automation</p>
+<p align="center">DevOps Engineer · Cloud Infrastructure</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssef-moghazy">
