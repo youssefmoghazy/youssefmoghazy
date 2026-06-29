@@ -17,10 +17,7 @@
 ---
 
 ## About
-
-DevOps Engineer with a backend foundation in ASP.NET Core and hands-on experience building cloud-native infrastructure, automating CI/CD pipelines, and managing containerized environments on AWS.
-
-I focus on making deployments reliable, infrastructure reproducible, and systems observable — using tools that scale.
+DevOps Engineer with hands-on experience building and automating CI/CD pipelines, containerized infrastructure, and cloud environments on AWS. Skilled in Docker, Kubernetes, Terraform, and Ansible, with a development background in .NET and SQL that enables effective collaboration with engineering teams. Passionate about delivering scalable, reliable systems that accelerate software delivery.
 
 ---
 
@@ -63,16 +60,15 @@ Production-style infrastructure built end-to-end with modern DevOps tooling.
 - AWS infrastructure provisioned with **Terraform**
 - **Kubernetes** cluster deployment and management
 - **GitLab CI/CD** pipelines for automated delivery
-- Containerized applications with **Docker**
-- Full observability stack using **Prometheus & Grafana**
-- Linux server administration throughout
+- Automate the tasks using **Ansible**
+- Deploy the project on **AWS**
 
 ---
 
 ## Currently Exploring
 
 ```
-AWS EKS  ·  ArgoCD  ·  Helm  ·  GitOps  ·  Advanced Terraform  ·  Observability
+AWS EKS  ·  Helm  ·  GitOps  ·  Advanced Terraform  ·  Observability
 ```
 
 ---
